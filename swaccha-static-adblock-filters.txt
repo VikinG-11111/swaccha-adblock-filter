@@ -172,7 +172,7 @@ thahakhabar.com##.bigyapan-gif-gallery
 ||creative.hamropatro.com/img/*$image
 ||adsnetwork.hamropatro.com
 ||bigyapan.hamropatro.com/parchar/*$subdocument
-||gamezop.com^
+||*.gamezop.com^
 ! ----- END https://www.hamropatro.com/ -----
 
 ! ----- START https://www.gadgetbytenepal.com -----
