@@ -391,5 +391,6 @@ bizshala.com##.ad-banner-img
 ||images.nagariknewscdn.com/medias/ezgifcom-optimize4.gif$image
 ||images.nagariknewscdn.com/medias/1725384478_gbimme.gif$image
 ||images.nagariknewscdn.com/medias/1725384497_800%20x%20200(1).gif$image
-
+||images.nagariknewscdn.com/medias/1742459618_Nagarik_1140x100px.png$image
+||images.nagariknewscdn.com/medias/1737877384_1200-x-100.gif$image
 ! ----- END https://nagariknews.nagariknetwork.com/ -----
