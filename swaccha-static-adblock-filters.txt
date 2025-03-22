@@ -439,3 +439,16 @@ bizshala.com##.ad-banner-img
 ||images.nagariknewscdn.com/medias/1742459618_Nagarik_1140x100px.png$image
 ||images.nagariknewscdn.com/medias/1737877384_1200-x-100.gif$image
 ! ----- END https://nagariknews.nagariknetwork.com/ -----
+
+! ----- START https://rajdhanidaily.com/ -----
+||rajdhanidaily.com/wp-content/uploads/2021/09/hamropatro-remit.gif$image
+||rajdhanidaily.com/wp-content/uploads/2021/09/hamropatro-remit-squre.gif$image
+||rajdhanidaily.com/wp-content/uploads/2021/09/250x250-GIF.gif$image
+||rajdhanidaily.com/wp-content/uploads/2021/10/800x125-GIF.gif$image
+||rajdhanidaily.com/wp-content/uploads/2025/03/ads-img-1-no-top.jpg$image
+||amtl.admana.net/www/images/15af24001828ffc57557de206571621f.jpg$image
+||rajdhanidaily.com/wp-content/uploads/2024/08/Prabhu-Khutruke-Saving-c.gif$image
+||rajdhanidaily.com/wp-content/uploads/2023/03/ads-19032025.jpg$image
+||rajdhanidaily.com/wp-content/uploads/2022/09/rajdhani-viber.jpg$image
+||rajdhanidaily.com/wp-content/uploads/2021/10/sm-01-1.jpg$image
+! ----- END https://rajdhanidaily.com/ -----
