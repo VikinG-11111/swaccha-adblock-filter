@@ -373,3 +373,23 @@ bizshala.com##.ad-banner-img
 ! ----- START https://myrepublica.nagariknetwork.com/ -----
 ||republicaimg.nagariknewscdn.com/shared/web/uploads/media/advertisements/*$image
 ! ----- END https://myrepublica.nagariknetwork.com/ -----
+
+! ----- START https://nagariknews.nagariknetwork.com/ -----
+||nagariknews.nagariknetwork.com/medias/1741688581_1200x100px.png$image
+||nagariknews.nagariknetwork.com/medias/ezgifcom-optimize4.gif$image
+||nagariknews.nagariknetwork.com/medias/1725384497_800%20x%20200(1).gif$image
+||nagariknews.nagariknetwork.com/medias/1742459794_300x200x%20pixel.png$image
+||nagariknews.nagariknetwork.com/medias/aqua-400.png$image
+||nagariknews.nagariknetwork.com/medias/1742459618_Nagarik_1140x100px.png$image
+||nagariknews.nagariknetwork.com/medias/1734406780_700X150%20copy.jpg$image
+||nagariknews.nagariknetwork.com/medias/1737877384_1200-x-100.gif$image
+||nagariknews.nagariknetwork.com/medias/1742656256_1200%20800.jpg$image
+||images.nagariknewscdn.com/medias/1742656256_1200%20800.jpg$image
+||images.nagariknewscdn.com/medias/1741688581_1200x100px.png$image
+||images.nagariknewscdn.com/medias/1742459794_300x200x%20pixel.png$image
+||images.nagariknewscdn.com/medias/aqua-400.png$image
+||images.nagariknewscdn.com/medias/ezgifcom-optimize4.gif$image
+||images.nagariknewscdn.com/medias/1725384478_gbimme.gif$image
+||images.nagariknewscdn.com/medias/1725384497_800%20x%20200(1).gif$image
+
+! ----- END https://nagariknews.nagariknetwork.com/ -----
