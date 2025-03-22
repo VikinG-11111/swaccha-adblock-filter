@@ -416,7 +416,7 @@ bizshala.com##.ad-banner-img
 
 ! ----- START https://myrepublica.nagariknetwork.com/ -----
 ||republicaimg.nagariknewscdn.com/shared/web/uploads/media/advertisements/*$image
-||republicajscss.nagariknewscdn.com/img/advertisement/*$image
+||nagariknewscdn.com/img/advertisement/*$image
 ! ----- END https://myrepublica.nagariknetwork.com/ -----
 
 ! ----- START https://nagariknews.nagariknetwork.com/ -----
