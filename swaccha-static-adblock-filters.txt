@@ -200,6 +200,19 @@ www.reportersnepal.com##.widget > a > img
 
 ! ----- START https://www.khabarhub.com/ -----
 ||i*.wp.com/sgp1.digitaloceanspaces.com/*/*.gif$image
+||khabarhub.com/wp-content/uploads/2022/03/Salt-Trading_gif-Final-1.gif$image,domain=khabarhub.com
+||khabarhub.com/wp-content/uploads/2021/09/hamro-patro-250.gif$image,domain=khabarhub.com
+||khabarhub.com/wp-content/uploads/2025/02/unnamed.gif$image,domain=khabarhub.com
+||khabarhub.com/wp-content/uploads/2024/10/1100x100.gif$image,domain=khabarhub.com
+||khabarhub.com/wp-content/uploads/2025/03/1100-x-100.gif$image,domain=khabarhub.com
+||khabarhub.com/wp-content/uploads/2024/12/Ncell_unlimitedoffer_abhyandaily_1200X100_karyalaya.jpg$image,domain=khabarhub.com
+||khabarhub.com/wp-content/uploads/2024/12/PRABHU-_-AGRO-LOAN-_-ONLINE-_-960-X-100PX-scaled-1-2048x214.jpg$image,domain=khabarhub.com
+||khabarhub.com/wp-content/uploads/2023/12/nepalipatro.gif$image,domain=khabarhub.com
+||khabarhub.com/wp-content/uploads/2022/03/hamro-patro-remmit-2.gif$image,domain=khabarhub.com
+||khabarhub.com/wp-content/uploads/2024/02/800X100-1.gif$image,domain=khabarhub.com
+||khabarhub.com/wp-content/uploads/2021/07/Shilanyas-GIF-281X150pxl.gif$image,domain=khabarhub.com
+||khabarhub.com/wp-content/uploads/2024/10/250x250.gif$image,domain=khabarhub.com
+||khabarhub.com/wp-content/uploads/2025/03/700x150px.png$image,domain=khabarhub.com
 ! ----- END https://www.khabarhub.com/ -----
 
 ! ----- START https://deshsanchar.com/ -----
