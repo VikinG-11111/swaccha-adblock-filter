@@ -207,6 +207,15 @@ lokaantar.com##.bigyapan-title
 
 ! ----- START https://www.osnepal.com -----
 www.osnepal.com##.ads
+||osnepal.com/wp-content/uploads/2022/06/ads7.gif$image
+||osnepal.com/wp-content/uploads/2023/08/kesh-dai-ads-.jpeg$image
+||osnepal.com/wp-content/uploads/2022/06/2-new-banner-hospitalized-rider-scaled-1-1024x118-2.gif$image
+||osnepal.com/wp-content/uploads/2022/10/2-scaled.jpg$image
+||osnepal.com/wp-content/uploads/2022/10/1.jpg$image
+||osnepal.com/wp-content/uploads/2022/06/sandip-1.jpg$image
+||osnepal.com/wp-content/uploads/2022/12/319773572_719840399487058_7618558539607356122_n-e1671271154680.jpg$image
+||osnepal.com/wp-content/uploads/2023/08/kesh-dai-ads--768x576.jpeg$image
+||osnepal.com/wp-content/uploads/2022/12/ads7.gif$image
 ! ----- END https://www.osnepal.com -----
 
 ! ----- START https://thahakhabar.com -----
