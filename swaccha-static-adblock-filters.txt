@@ -482,3 +482,7 @@ bizshala.com##.ad-banner-img
 ! ----- START https://techmandu.com -----
 ||techmandu.com/wp-content/uploads/2024/05/Techmandu-Facebook-follow-page.jpg$image
 ! ----- END https://techmandu.com -----
+
+! ----- START https://nepalipost.com/beta -----
+||nepalipost.com/beta/wp-content/uploads/2018/02/Screen-Shot-2018-02-07-at-21.19.40.png$image
+! ----- END https://nepalipost.com/beta -----
