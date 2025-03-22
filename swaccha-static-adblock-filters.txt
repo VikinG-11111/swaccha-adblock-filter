@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Title: Swaccha Adblock Filter
+! Title: Swaccha Adblock Filter(not finished)
 ! Version: 0.1.100
 ! Expires: 1 days (update frequency)
 ! Homepage: https://sndsabin.github.io/swaccha-adblock-filter/
 ! License: https://github.com/sndsabin/swaccha-adblock-filter/blob/master/LICENSE
 ! Forked By: VikinG-11111
 ! Please feel free to open an issue or contribute
-! Repo: https://github.com/sndsabin/swaccha-adblock-filter
+! Repo: https://github.com/VikinG-11111/swaccha-adblock-filter/tree/master
 
 ! ----- START global filter -----
 ||*/bigyaapan/*$image
