@@ -346,5 +346,5 @@ bizshala.com##.ad-banner-img
 ! ----- END https://bizshala.com -----
 
 ! ----- START https://www.nepalipatra.com/ -----
-||ap-south-1.linodeobjects.com/nepalipatra/2024/10/tbc-AD.gif$image
+||linodeobjects.com/nepalipatra/*$imageadd
 ! ----- END https://www.nepalipatra.com/ -----
