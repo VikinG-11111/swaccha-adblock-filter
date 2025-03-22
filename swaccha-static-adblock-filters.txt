@@ -472,3 +472,9 @@ bizshala.com##.ad-banner-img
 ||newsofnepal.com/wp-content/uploads/2024/09/1230x100.gif$image
 ||newsofnepal.com/wp-content/uploads/2024/08/mbl-newsofnepal.gif$image
 ! ----- END https://newsofnepal.com/ -----
+
+! ----- START https://abhiyandaily.com -----
+||nba-news.s3.ap-south-1.amazonaws.com/uploads/image_gallery/salttrading_214653.gif$image
+||nba-news.s3.ap-south-1.amazonaws.com/advertisements/tvs-7-11-2022.gif$image
+||nba-news.s3.ap-south-1.amazonaws.com/uploads/image_gallery/163d444e.png$image
+! ----- END https://abhiyandaily.com -----
