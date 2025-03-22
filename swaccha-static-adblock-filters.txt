@@ -367,6 +367,7 @@ bizshala.com##.ad-banner-img
 ||ap-south-1.linodeobjects.com/nepalipatra/2024/10/tbc-AD.gif$image,domain=nepalipatra.com
 ||ap-south-1.linodeobjects.com/nepalipatra/2023/09/twc.jpg$image,domain=nepalipatra.com
 ||ap-south-1.linodeobjects.com/nepalipatra/2024/10/hamro-patro-Send_money-768x86.webp$image,domain=nepalipatra.com
+||ap-south-1.linodeobjects.com/nepalipatra/2024/10/hamro-patro-Send_money-300x34.webp$image,domain=nepalipatra.com
 ! ----- END https://www.nepalipatra.com/ -----
 
 ! ----- START https://myrepublica.nagariknetwork.com/ -----
