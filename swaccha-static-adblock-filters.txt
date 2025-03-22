@@ -452,3 +452,14 @@ bizshala.com##.ad-banner-img
 ||rajdhanidaily.com/wp-content/uploads/2022/09/rajdhani-viber.jpg$image
 ||rajdhanidaily.com/wp-content/uploads/2021/10/sm-01-1.jpg$image
 ! ----- END https://rajdhanidaily.com/ -----
+
+! ----- START https://newsofnepal.com/ -----
+||newsofnepal.com/wp-content/uploads/2024/04/300x125px.png$image
+||newsofnepal.com/wp-content/uploads/2025/01/250x250.gif$image
+||newsofnepal.com/wp-content/uploads/2018/09/therollingstones.jpg$image
+||newsofnepal.com/wp-content/uploads/2025/03/bp.jpg$image
+||newsofnepal.com/wp-content/uploads/2024/12/300-x-200.gif$image
+||newsofnepal.com/wp-content/uploads/2023/04/gif-banner-final1-1.gif$image
+||newsofnepal.com/wp-content/uploads/2024/09/1230x100.gif$image
+||newsofnepal.com/wp-content/uploads/2024/08/mbl-newsofnepal.gif$image
+! ----- END https://newsofnepal.com/ -----
