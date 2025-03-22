@@ -478,3 +478,7 @@ bizshala.com##.ad-banner-img
 ||nba-news.s3.ap-south-1.amazonaws.com/advertisements/tvs-7-11-2022.gif$image
 ||nba-news.s3.ap-south-1.amazonaws.com/uploads/image_gallery/163d444e.png$image
 ! ----- END https://abhiyandaily.com -----
+
+! ----- START https://techmandu.com -----
+||techmandu.com/wp-content/uploads/2024/05/Techmandu-Facebook-follow-page.jpg$image
+! ----- END https://techmandu.com -----
