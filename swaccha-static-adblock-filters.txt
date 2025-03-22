@@ -346,5 +346,10 @@ bizshala.com##.ad-banner-img
 ! ----- END https://bizshala.com -----
 
 ! ----- START https://www.nepalipatra.com/ -----
-||ap-south-1.linodeobjects.com/nepalipatra/*$image,third-party
+||ap-south-1.linodeobjects.com/nepalipatra/2023/04/star-tours.gif$image,domain=nepalipatra.com
+||ap-south-1.linodeobjects.com/nepalipatra/2024/10/Hamro-Patro.gif$image,domain=nepalipatra.com
+||ap-south-1.linodeobjects.com/nepalipatra/2023/04/twc.gif$image,domain=nepalipatra.com
+||nepalipatra.ap-south-1.linodeobjects.com/2024/05/twc.gif$image,domain=nepalipatra.com
+||ap-south-1.linodeobjects.com/nepalipatra/2024/11/Nepalipatra.gif$image,domain=nepalipatra.com
+||ap-south-1.linodeobjects.com/nepalipatra/2024/10/tbc-AD.gif$image,domain=nepalipatra.com
 ! ----- END https://www.nepalipatra.com/ -----
