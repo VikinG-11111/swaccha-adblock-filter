@@ -477,3 +477,7 @@ bizshala.com##.ad-banner-img
 ! ----- START https://nepalipost.com/beta -----
 ||nepalipost.com/beta/wp-content/uploads/2018/02/Screen-Shot-2018-02-07-at-21.19.40.png$image
 ! ----- END https://nepalipost.com/beta -----
+
+! ----- START https://hamrocsit.com -----
+||hamrocsit.com/wp-content/uploads/*.gif$image
+! ----- END https://hamrocsit.com -----
