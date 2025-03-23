@@ -353,8 +353,8 @@ bankingkhabar.com##div[class*="add"]
 
 ! ----- START https://arthasarokar.com -----
 ||arthasarokar.com/*.gif
-arthasarokar.com##.custom-ad-link
-arthasarokar.com##.twin-ad-wrapper
+||arthasarokar.com^$script
+||arthasarokar.com/wp-content/uploads/2024/12/Ncell_unlimitedoffer_Arthasarokar_1200X100_karyalaya-2.jpg$image
 ! ----- END https://arthasarokar.com -----
 
 ! ----- START https://kathmandukhabar.com -----
