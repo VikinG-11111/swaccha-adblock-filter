@@ -479,5 +479,5 @@ bizshala.com##.ad-banner-img
 ! ----- END https://nepalipost.com/beta -----
 
 ! ----- START https://hamrocsit.com -----
-||hamrocsit.com/wp-content/uploads/*.gif$image
+!||hamrocsit.com/wp-content/uploads/*.gif$image
 ! ----- END https://hamrocsit.com -----
